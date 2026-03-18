@@ -1,0 +1,7 @@
+json
+{
+  "appId": "com.example.courierapp",
+  "appName": "CourierApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
