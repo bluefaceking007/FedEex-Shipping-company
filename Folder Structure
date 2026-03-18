@@ -1,0 +1,19 @@
+courier-app/
+├─ backend/
+│  ├─ server.js
+│  ├─ package.json
+│  └─ .env
+│
+├─ frontend/
+│  ├─ pages/
+│  │  ├─ index.js
+│  │  └─ _app.js
+│  ├─ components/
+│  │  └─ TrackingUI.jsx
+│  ├─ package.json
+│  └─ tailwind.config.js
+│
+├─ mobile/
+│  ├─ capacitor.config.json
+│  ├─ package.json
+│  └─ www/  (placeholder for frontend build)
